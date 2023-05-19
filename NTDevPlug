@@ -1,0 +1,22 @@
+[
+ {
+    "Author": "tssailzz8",
+    "AssemblyVersion": "1.1.2.1",
+    "Name": "LiFu",
+    "InternalName": "LiFu",
+    "Punchline": "LiFu",
+    "Description": "理符",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/tssailzz8/Lifu",
+    "Tags": null,
+    "DalamudApiLevel": 8,
+    "LoadPriority": 0,
+    "IconUrl": null,
+    "DownloadLinkInstall": "https://github.com/tssailzz8/Lifu/releases/latest/download/LiFu.zip",
+    "DownloadLinkTesting": "https://github.com/tssailzz8/Lifu/releases/latest/download/LiFu.zip",
+    "DownloadLinkUpdate": "https://github.com/tssailzz8/Lifu/releases/latest/download/LiFu.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "1664553600"
+  }
+]
