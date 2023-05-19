@@ -1,7 +1,7 @@
 [
  {
     "Author": "tssailzz8",
-    "AssemblyVersion": "1.1.2.1",
+    "AssemblyVersion": "1.2",
     "Name": "LiFu",
     "InternalName": "LiFu",
     "Punchline": "LiFu",
@@ -17,6 +17,5 @@
     "DownloadLinkUpdate": "https://github.com/tssailzz8/Lifu/releases/latest/download/LiFu.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": "1664553600"
   }
 ]
